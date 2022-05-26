@@ -1,1 +1,2 @@
-Using permissions on shell
+i #!bin/bash
+<su>
