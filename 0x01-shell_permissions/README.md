@@ -1,2 +1,2 @@
-i #!bin/bash
-<su>
+#!/bin/bash
+su
